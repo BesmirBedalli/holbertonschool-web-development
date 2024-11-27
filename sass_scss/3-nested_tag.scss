@@ -4,8 +4,11 @@ $nomargin:0px;
 $margin1:10px;
 
 body {
+
     margin: $nomargin;
     padding: $nomargin; 
-    body p {
+
+     p {
       margin: $margin1; }
+
     }
