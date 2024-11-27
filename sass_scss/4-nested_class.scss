@@ -7,6 +7,8 @@ body {
     color: $color;
 }
 
-body .red {
-    color: $color1;
+body {
+    .red{
+        color: $color1;
+    }
 }
