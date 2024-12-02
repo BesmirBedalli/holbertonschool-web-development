@@ -1,14 +1,13 @@
 /* My style */
 
-$color: #3D3D3D;
-$color1: #FF0000;
 
 
 body {
-    color: $color;
+  color: #3D3D3D;
 
-    > .red {
 
-    color: $color1;
-      }
+>.red {
+  color: #FF0000;
 }
+}
+
